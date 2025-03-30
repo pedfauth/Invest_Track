@@ -1,0 +1,5 @@
+etl/
+├── etl.py              → Script principal (com extract, transform, load)
+├── database.py         → Conexão com o MySQL (via sqlalchemy/pymysql)
+├── utils.py            → Funções auxiliares (conversões, validações)
+└── requirements.txt    → Lista de pacotes Python usados

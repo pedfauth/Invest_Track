@@ -1,0 +1,47 @@
+# Exemplo (NÃO PODE SER VERSIONADO)
+
+# ======================
+# NODE (Angular)
+# ======================
+node_modules/
+dist/
+.angular/
+.env
+
+# ======================
+# JAVA (Spring Boot / IntelliJ)
+# ======================
+*.class
+*.jar
+*.war
+*.iml
+.idea/
+target/
+logs/
+
+# ======================
+# PYTHON
+# ======================
+__pycache__/
+*.pyc
+.env/
+*.ipynb_checkpoints
+venv/
+
+# ======================
+# SISTEMA OPERACIONAL
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# BANCO DE DADOS
+# ======================
+*.sql~
+*.db
+
+# ======================
+# GIT
+# ======================
+.gitignore
+.gitattributes
